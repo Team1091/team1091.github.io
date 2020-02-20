@@ -1,0 +1,88 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    /*background-color: #333333;*/
+    /*color: #DDDDDD;*/
+}
+
+body, aside {
+    background: #333333;
+    color: #DDDDDD;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 70px;
+    line-height: 70px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+/*header {*/
+/*  color: white;*/
+/*  padding: 60px 15px 0;*/
+/*}*/
+
+aside {
+    box-shadow: 0px 0px 4px coral;
+}
+
+img {
+    width: 300px;
+}
+
+code {
+    font-size: 80%;
+}
+
+.jumbotron {
+    background-image: url("/images/header-machine-shop.jpg");
+    background-size: cover;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    margin-bottom: 0;
+}
+
+.jumbotron .container {
+    text-align: center;
+}
+
+.calendar {
+    border: none;
+}
+
+aside button {
+    border-color: #363636;
+    background-color: #343a40;
+    width: 100%;
+}
+
+aside a:hover {
+    color: white;
+}
+
+aside ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+a {
+    color: #ff6f00
+}
+
+header {
+    margin-bottom: 1em;
+}

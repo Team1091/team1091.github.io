@@ -1,0 +1,4 @@
+name: FRC Team 1091
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
