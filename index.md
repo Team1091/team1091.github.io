@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: FRC Team 1091
 ---
 
 # Oriole Assault
