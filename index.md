@@ -19,7 +19,7 @@ those weeks the students have an opportunity to learn and hone skills including 
 and teamwork.
 
 ## New Student Meeting - Welcome to Robotics!
- New member meeting starts at 6:00pm September 17th in the Cafeteria. We will be running a zoom link during the meeting for remote people, 
+ New member meeting starts at 6:00pm September 17th in the cafeteria. We will be running a zoom link during the meeting for remote people, 
  check the Google calendar event for the link. You are welcome to tune in as are your parents. Parents are always welcome
   at Robotics and there's lots of ways to help! 
 
