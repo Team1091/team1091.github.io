@@ -14,23 +14,22 @@ title: FRC Team 1091
     </div>
 </div>
 
-
 FRC Team 1091 Oriole Assault is composed of high school students with a goal of creating a robot in 6 weeks.  During
 those weeks the students have an opportunity to learn and hone skills including CAD, machining, programming, electronics,
 and teamwork.
 
+## New Student Meeting - Welcome to Robotics!
+ New member meeting starts at 6:00pm September 17th. We will be running a zoom link during the meeting for remote people, 
+ check the google calendar event for the link. You are welcome to tune in as are your parents. Parents are always welcome
+  at Robotics and there's lots of ways to help! 
 
+Robotics has so much to offer! Obviously electronics and programming and machining and design and welding. 
+Plus business and finance, marketing and social media management, graphic design and public speaking. 
+All tied together with youth leadership and teamwork. We hope you can come join us!
 
-## Donations
-We are currently looking for donations so we can attend the [First Championship in Detroit](https://www.firstchampionship.org/detroit) at the end of April.
-
-If you wish to write a check, download this [Check Donation Form](/files/Donation_Form.pdf).
-
-If you would prefer to use a credit card, we have a [GoFundMe setup here](https://www.gofundme.com/send-frc-team-1091-to-championships).
-
-[Washington County Insider article about our Wisconsin Regional win](https://www.washingtoncountyinsider.com/hartford-union-high-school-robotics-team-1091-qualifies-for-championship-by-rena-diem/)
-
-
+The team has meetings every Thursday from 5:30-7:00pm.
+We are planning on doing many of the starting meetings virtual this year.  We will have in person meetings when required, 
+but we will try to be limited to one a month. Much will be virtual due to Covid, but we are looking at a full year of activity and forward momentum. 
 
 ## Contact Details
 
@@ -48,3 +47,12 @@ If you would prefer to use a credit card, we have a [GoFundMe setup here](https:
 ## Calendar
 
 <iframe class="calendar" width="100%" height="600px" src="https://calendar.google.com/calendar/embed?src=frcteam1091%40gmail.com&ctz=America%2FChicago"/>
+
+## Donations
+We are currently looking for donations so we can attend the [First Championship in Detroit](https://www.firstchampionship.org/detroit) at the end of April.
+
+If you wish to write a check, download this [Check Donation Form](/files/Donation_Form.pdf).
+
+If you would prefer to use a credit card, we have a [GoFundMe setup here](https://www.gofundme.com/send-frc-team-1091-to-championships).
+
+[Washington County Insider article about our Wisconsin Regional win](https://www.washingtoncountyinsider.com/hartford-union-high-school-robotics-team-1091-qualifies-for-championship-by-rena-diem/)
