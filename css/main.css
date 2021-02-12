@@ -49,15 +49,19 @@ code {
 }
 
 .jumbotron {
-    background-image: url("/images/header-machine-shop.jpg");
-    background-size: cover;
+    background-image: url("/images/FacebookBanner.jpg");
+    background-repeat: no-repeat;
+	background-position: center;
     color: white;
     text-shadow: 0px 0px 4px black;
     margin-bottom: 0;
+	height: 305px;
+	background-color: #333333;
 }
 
 .jumbotron .container {
     text-align: center;
+	margin-top: 1px;
 }
 
 .calendar {
