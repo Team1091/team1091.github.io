@@ -19,17 +19,14 @@ those weeks the students have an opportunity to learn and hone skills including 
 and teamwork.
 
 ## New Student Meeting - Welcome to Robotics!
- New member meeting starts at 6:00pm September 17th in the cafeteria. We will be running a zoom link during the meeting for remote people, 
- check the Google calendar event for the link. You are welcome to tune in as are your parents. Parents are always welcome
-  at Robotics and there's lots of ways to help! 
+New member meeting at 5:00-6:00pm September 16th in the Drama/Lecture room.
 
 Robotics has so much to offer! Obviously electronics and programming and machining and design and welding. 
 Plus business and finance, marketing and social media management, graphic design and public speaking. 
 All tied together with youth leadership and teamwork. We hope you can come join us!
 
 The team has meetings every Thursday from 5:30-7:00pm.
-We are planning on doing many of the starting meetings virtual this year.  We will have in person meetings when required, 
-but we will try to be limited to one a month. Much will be virtual due to Covid, but we are looking at a full year of activity and forward momentum. 
+Parents are always welcome at Robotics and there's lots of ways to help! 
 
 ## Contact Details
 
