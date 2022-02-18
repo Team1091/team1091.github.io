@@ -4,22 +4,26 @@ title: Sponsors
 order: 5
 ---
 
-# 2019 Sponsors
+# 2022 Sponsors
 
 Thank you to our sponsors for their generous contributions.
 
-## Platinum Tier
-* GE Healthcare
-* Rockwell Automation
-* Broan
-* Helgesen Industries
-* Lutz Family Foundation
+## Topaz Tier
+* Rockwell
+* GE Health
+* Bradley Corp
 
 ## Gold Tier
-* Hartford Area Foundation
-* Kettle Moraine Lions
-
+* HED
+* HKM Lions
+* Hartford Lodge 120
+* Mantz Automation
+* Miwaukee Tool
 ## Silver Tier
-* Triton Trailers
-* Midwest Products
-
+* Hart. Com. Serv. Earn.
+* Hart. Com. Serv. Don.
+* Forte Bank
+* FabriFast
+* P W Walsh
+* CDM Tool & Manufacturing Co
+* East Side Lumber
