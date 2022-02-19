@@ -52,11 +52,21 @@ code {
     background-image: url("/images/2022ThankYou2.JPG");
     background-repeat: no-repeat;
 	background-position: center;
+	animation: marquee 30s infinite linear;
     color: white;
     text-shadow: 0px 0px 4px black;
     margin-bottom: 0;
 	height: 305px;
 	background-color: #333333;
+}
+
+@keyframes marquee {
+    0%{
+        background-position:0;
+    }
+    100%{
+        background-position: -1000px;
+    }
 }
 
 .jumbotron .container {
