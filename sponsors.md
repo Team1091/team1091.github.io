@@ -18,7 +18,7 @@ Thank you to our sponsors for their generous contributions.
 * HKM Lions
 * Hartford Lodge 120
 * Mantz Automation
-* Miwaukee Tool
+* Milwaukee Tool
 ## Silver Tier
 * Hart. Com. Serv. Earn.
 * Hart. Com. Serv. Don.
