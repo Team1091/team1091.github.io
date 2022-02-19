@@ -64,8 +64,17 @@ code {
     0%{
         background-position:0 25%;
     }
-    100%{
+    25%{
         background-position: 100% 75%;
+    }
+    50%{
+        background-position:100% 25%;
+    }
+    75%{
+        background-position:0 75%;
+    }
+    100%{
+        background-position: 100% 25%;
     }
 }
 
