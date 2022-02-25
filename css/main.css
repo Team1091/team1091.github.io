@@ -74,7 +74,7 @@ code {
         background-position:0 75%;
     }
     100%{
-        background-position: 100% 25%;
+        background-position: 0% 25%;
     }
 }
 
