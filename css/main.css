@@ -109,3 +109,8 @@ a {
 header {
     margin-bottom: 1em;
 }
+
+.twoColumn{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
