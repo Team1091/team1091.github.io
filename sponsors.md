@@ -19,6 +19,7 @@ Thank you to our sponsors for their generous contributions.
 * Hartford Lodge 120
 * Mantz Automation
 * Milwaukee Tool
+
 ## Silver Tier
 * Hart. Com. Serv. Earn.
 * Hart. Com. Serv. Don.
