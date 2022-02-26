@@ -12,4 +12,4 @@ learn that friendly competition and mutual gain are not separate goals, and that
 foundation of teamwork. We express the FIRST philosophies of Gracious Professionalism® and Coopertition® 
 through our Core Values.
 
-https://www.firstlegoleague.org
+[First Lego League Website](https://www.firstlegoleague.org/)
