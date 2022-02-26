@@ -18,6 +18,12 @@ FRC Team 1091 Oriole Assault is composed of high school students with a goal of 
 those weeks the students have an opportunity to learn and hone skills including CAD, machining, programming, electronics,
 and teamwork.
 
+We are a family first and foremost, not related by blood, but by the love for ingenuity and creativity. 
+Each member learns new skills that are not learned in an every-day classroom, but can also be used outside the Robotics team setting. 
+We embody the ideals of FIRST in so many ways. 
+When one becomes part of our team you become part of something bigger than yourself, you get a group of friends, you get a family, and you get each other.
+
+
 ## New Student Meeting - Welcome to Robotics!
 New member meeting at 5:00-6:00pm September 16th in the Drama/Lecture room.
 
