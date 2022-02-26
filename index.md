@@ -25,8 +25,9 @@ Robotics has so much to offer! Obviously electronics and programming and machini
 Plus business and finance, marketing and social media management, graphic design and public speaking. 
 All tied together with youth leadership and teamwork. We hope you can come join us!
 
-The team has pre-season meetings every Thursday from 5:30-7:00pm.
-During the season meetings are 5:30-8:00pm Monday to Thursday, and Saturdays from 8:00am-2:00pm.
+The team has Development meetings every Thursday from 5:30-7:00pm.
+Build season meetings are 5:30-8:00pm Monday to Thursday, and Saturdays from 8:00am-2:00pm.
+After Build season we have our competitions.
 Parents are always welcome at Robotics and there's lots of ways to help! 
 
 ## Contact Details
