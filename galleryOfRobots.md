@@ -29,7 +29,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2015-2016.JPG" class="img-fluid  w-100" />
+            <img src="/images/2015-2016.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -65,7 +65,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2019-2020.JPG" class="img-fluid  w-100" />
+            <img src="/images/2019-2020.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
