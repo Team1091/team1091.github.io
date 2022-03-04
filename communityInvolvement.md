@@ -12,7 +12,7 @@
         </div>
     </div>
 </div>
-<p>The Lions Club hosted a Brat Fry, and we brought our robot to show it off.
+<br>The Lions Club hosted a Brat Fry, and we brought our robot to show it off.</br>
 
 <div class="container-fluid px-0">
     <div class="row">
@@ -21,7 +21,7 @@
         </div>
     </div>
 </div>
-<p>After giving a presentation, the Lions Club donated us a check.</p>
+<br>After giving a presentation, the Lions Club donated us a check.</br>
 
 ## Signicast Tour
 <div class="container-fluid px-0">
@@ -31,6 +31,6 @@
         </div>
     </div>
 </div>
-<p> Signicast gave us a tour of their facilities.</p>
+<br> Signicast gave us a tour of their facilities.</br>
 
 ## Contact Metals Tour
