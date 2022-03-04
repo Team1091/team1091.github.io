@@ -21,7 +21,7 @@
         </div>
     </div>
 </div>
-<p>After giving a presentation, the Lions Club donated us a check.
+<p>After giving a presentation, the Lions Club donated us a check.</p>
 
 ## Signicast Tour
 <div class="container-fluid px-0">
@@ -31,6 +31,6 @@
         </div>
     </div>
 </div>
-<p> Signicast gave us a tour of their facilities.
+<p> Signicast gave us a tour of their facilities.</p>
 
 ## Contact Metals Tour
