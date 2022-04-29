@@ -1,6 +1,6 @@
 ## First Lego League in Hartford
 Central Middle School is running a First Lego League for all HUHS feeder schools. 
-Contact [frcteam1091@gmail.com](frcteam1091@gmail.com) for more information.
+Contact [ FLL1091Robotics@gmail.com](FLL1091Robotics@gmail.com) for more information.
 
 ## What is FIRST® LEGO® League?
 FIRST® LEGO® League introduces science, technology, engineering, and math (STEM) to children ages 4-16* 
