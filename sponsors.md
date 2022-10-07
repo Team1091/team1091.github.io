@@ -3,9 +3,8 @@ layout: default
 title: Sponsors
 order: 5
 ---
-# 2022 Sponsors
-
 For our two competitons and Worlds playoffs, we need $44,000. See our Sponsor tiers! To help STEM growth through Robotics,  become a Sponsor.
+# 2022 Sponsors
 
 ## Topaz Tier
 * Rockwell
