@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: indexlayout
 title: FRC Team 1091
 ---
 
@@ -49,15 +49,9 @@ Parents are always welcome at Robotics and there's lots of ways to help!
 
 </address>
 
-## Calendar
-
-<iframe class="calendar" width="100%" height="600px" src="https://calendar.google.com/calendar/embed?src=frcteam1091%40gmail.com&ctz=America%2FChicago"/>
 
 ## Donations
-We are currently looking for donations so we can attend the [First Championship in Detroit](https://www.firstchampionship.org/detroit) at the end of April.
 
 If you wish to write a check, download this [Check Donation Form](/files/Donation_Form.pdf).
-
-If you would prefer to use a credit card, we have a [GoFundMe setup here](https://www.gofundme.com/send-frc-team-1091-to-championships).
 
 [Washington County Insider article about our Wisconsin Regional win](https://www.washingtoncountyinsider.com/hartford-union-high-school-robotics-team-1091-qualifies-for-championship-by-rena-diem/)
