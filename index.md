@@ -23,19 +23,6 @@ Each member learns new skills that are not learned in an every-day classroom, bu
 We embody the ideals of FIRST in so many ways. 
 When one becomes part of our team you become part of something bigger than yourself, you get a group of friends, you get a family, and you get each other.
 
-
-## New Student Meeting - Welcome to Robotics!
-New member meeting at 5:00-6:00pm September 16th in the Drama/Lecture room.
-
-Robotics has so much to offer! Obviously electronics and programming and machining and design and welding. 
-Plus business and finance, marketing and social media management, graphic design and public speaking. 
-All tied together with youth leadership and teamwork. We hope you can come join us!
-
-The team has Development meetings every Thursday from 5:30-7:00pm.
-Build season meetings are 5:30-8:00pm Monday to Thursday, and Saturdays from 8:00am-2:00pm.
-After Build season we have our competitions.
-Parents are always welcome at Robotics and there's lots of ways to help! 
-
 ## Contact Details
 
 <address>
@@ -52,6 +39,6 @@ Parents are always welcome at Robotics and there's lots of ways to help!
 
 ## Donations
 
-If you wish to write a check, download this [Check Donation Form](/files/Donation_Form.pdf).
-
-[Washington County Insider article about our Wisconsin Regional win](https://www.washingtoncountyinsider.com/hartford-union-high-school-robotics-team-1091-qualifies-for-championship-by-rena-diem/)
+If you would like to donate to our 2022-2023 season, please download this [Check Donation Form](/files/Donation_Form.pdf). 
+Donations will go towards paying for competitions, constructing the robot, and outreach promoting STEM in our community. 
+Thank you!

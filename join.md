@@ -11,9 +11,8 @@ How to join the Hartford Union High School’s First Robotics Team.
 ## Requirements to join:
 
 1) Come to any meeting, and notify a coach about desire to join.
-  * The best meeting to attend is the parent meeting. 
-  * Our parent meeting is planned for Oct. 17th. 6-7:30pm, in the machine shop room.  
   * We will accept new team members year round.
+  * Best coach to notify would be Bill Pfund in room 119
   
 2) Signed Co-Curricular form and fulfilling all Co-Curricular Requirements
   See [https://www.huhs.org/activities/](https://www.huhs.org/activities/) for more details
