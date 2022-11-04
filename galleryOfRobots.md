@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gallery of Robots
+order: 6
+---
 # Gallery of Robots
 
 ## 2021-2022 Robot

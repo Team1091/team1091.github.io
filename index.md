@@ -1,6 +1,7 @@
 ---
 layout: indexlayout
 title: FRC Team 1091
+order: 1
 ---
 
 # Oriole Assault

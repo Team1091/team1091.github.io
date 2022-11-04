@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calendar
-order: 2
+order: 10
 ---
 Competitions that we attend
 

@@ -1,3 +1,7 @@
+---
+title: Lego League
+order: 7
+---
 ## FIRST LEGO League Overview
 · Open to students in 4th - 8th grade from Hartford Union High School feeder schools
 

@@ -1,8 +1,28 @@
+---
+title: Community Involvement
+order: 8
+---
 ## What we do for our community:
 
 ## 4H Club
+<div class="container-fluid px-0">
+    <div class="row">
+        <div class="col-12">
+            <img src="/images/4H 2.jpg" class="img-fluid  w-100" />
+        </div>
+    </div>
+</div>
+<br>The 4H students came to the High School for a chance to drive the robot and learn what we do here.
 
 ## Cub Scouts
+<div class="container-fluid px-0">
+    <div class="row">
+        <div class="col-12">
+            <img src="/images/Cub Scouts.jpg" class="img-fluid  w-100" />
+        </div>
+    </div>
+</div>
+<br>The Cub Scouts came to the High School for a chance to drive the robot and learn what we do here.
 
 ## Lions Club
 <div class="container-fluid px-0">
