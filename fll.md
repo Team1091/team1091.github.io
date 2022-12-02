@@ -47,7 +47,7 @@ If you would like to donate to our 2022-2023 season, please scan to QR code belo
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/IMG_2026.PNG" class="img-fluid  w-100" />
+            <img src="/images/FLL donation.PNG" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
