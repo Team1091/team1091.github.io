@@ -1,4 +1,4 @@
-[Click here](communityInvolvement.md) to return to the previous page.
+
 ## What we do for our community:
 
 ## 4H Club
