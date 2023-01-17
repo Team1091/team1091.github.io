@@ -1,6 +1,6 @@
 ---
 title: Programming
-order: 5
+order: 6
 ---
 # Getting Started with Programming
 

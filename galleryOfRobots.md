@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gallery of Robots
-order: 6
+order: 7
 ---
 # Gallery of Robots
 

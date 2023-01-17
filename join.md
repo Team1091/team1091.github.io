@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Join the Team
-order: 4
+order: 5
 ---
 
 # Joining the Team
