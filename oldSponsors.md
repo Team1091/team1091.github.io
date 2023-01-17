@@ -1,3 +1,20 @@
-#Thank you to our previous sponsors!
+## Topaz Tier
+* Rockwell
+* GE Health
+* Bradley Corp
 
-##2021-2022
+## Gold Tier
+* HED
+* HKM Lions
+* Hartford Lodge 120
+* Mantz Automation
+* Milwaukee Tool
+
+## Silver Tier
+* Hart. Com. Serv. Earn.
+* Hart. Com. Serv. Don.
+* Forte Bank
+* FabriFast
+* P W Walsh
+* CDM Tool & Manufacturing Co
+* East Side Lumber

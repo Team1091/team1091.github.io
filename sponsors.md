@@ -3,29 +3,23 @@ layout: default
 title: Sponsors
 order: 3
 ---
+[Here is our previous sponsors](oldSponsors.md)
+
 For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor tiers! To help STEM growth through Robotics,  become a Sponsor.
-# 2022 Sponsors
+# 2023 Sponsors
 
-## Topaz Tier
+## Inspirator Tier
 * Rockwell
-* GE Health
-* Bradley Corp
 
-## Gold Tier
+## Innovator Tier
+* Wisconsin department of public instruction
+* Hartford lodge No.120 
+
+## Bot friends Tier
+* Lions club
 * HED
-* HKM Lions
-* Hartford Lodge 120
-* Mantz Automation
-* Milwaukee Tool
-
-## Silver Tier
-* Hart. Com. Serv. Earn.
-* Hart. Com. Serv. Don.
-* Forte Bank
-* FabriFast
-* P W Walsh
-* CDM Tool & Manufacturing Co
-* East Side Lumber
+* MSOE University
+* Server products
 
 <div class="container-fluid px-0">
     <div class="row">
