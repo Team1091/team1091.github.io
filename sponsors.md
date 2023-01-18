@@ -24,7 +24,7 @@ For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor t
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/ALL SPONSERS 2022 Thanksgiving Letter.jpg" class="img-fluid  w-100" />
+            <img src="/images/ALL_SPONSERS_2022_Thanksgiving_Letter.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>

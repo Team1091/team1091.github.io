@@ -5,7 +5,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/4H 2.jpg" class="img-fluid  w-100" />
+            <img src="/images/4H_2.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
