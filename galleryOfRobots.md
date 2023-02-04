@@ -7,6 +7,8 @@ order: 7
 <br>
 
 ## 2021-2022 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -17,6 +19,8 @@ order: 7
 <br>
 
 ## 2020-2021 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -27,6 +31,8 @@ order: 7
 <br>
 
 ## 2019-2020 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -37,6 +43,8 @@ order: 7
 <br>
 
 ## 2018-2019 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -47,6 +55,8 @@ order: 7
 <br>
 
 ## 2017-2018 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -57,6 +67,8 @@ order: 7
 <br>
 
 ## 2016-2017 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -67,6 +79,8 @@ order: 7
 <br>
 
 ## 2015-2016 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -77,6 +91,8 @@ order: 7
 <br>
 
 ## 2014-2015 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -87,6 +103,8 @@ order: 7
 <br>
 
 ## 2013-2014 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
@@ -97,6 +115,8 @@ order: 7
 <br>
 
 ## 2012-2013 Robot
+<br>
+
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
