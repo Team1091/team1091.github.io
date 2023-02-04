@@ -4,6 +4,7 @@ title: Gallery of Robots
 order: 7
 ---
 # Gallery of Robots
+<br>
 
 ## 2021-2022 Robot
 <div class="container-fluid px-0">
@@ -13,6 +14,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2020-2021 Robot
 <div class="container-fluid px-0">
@@ -22,6 +24,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2019-2020 Robot
 <div class="container-fluid px-0">
@@ -31,6 +34,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2018-2019 Robot
 <div class="container-fluid px-0">
@@ -40,6 +44,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2017-2018 Robot
 <div class="container-fluid px-0">
@@ -49,6 +54,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2016-2017 Robot
 <div class="container-fluid px-0">
@@ -58,6 +64,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2015-2016 Robot
 <div class="container-fluid px-0">
@@ -67,6 +74,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2014-2015 Robot
 <div class="container-fluid px-0">
@@ -76,6 +84,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2013-2014 Robot
 <div class="container-fluid px-0">
@@ -85,6 +94,7 @@ order: 7
         </div>
     </div>
 </div>
+<br>
 
 ## 2012-2013 Robot
 <div class="container-fluid px-0">
