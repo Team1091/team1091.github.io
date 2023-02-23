@@ -15,7 +15,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Cub Scouts.jpg" class="img-fluid  w-100" />
+            <img src="/images/Cub_Scouts.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -25,7 +25,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/BratFry.jpg" class="img-fluid  w-100" />
+            <img src="/images/Brat_Fry.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -34,7 +34,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/LionClubs.jpg" class="img-fluid  w-100" />
+            <img src="/images/Lion_Clubs.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -45,7 +45,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/ContactMetalsTour.jpg" class="img-fluid  w-100" />
+            <img src="/images/Contact_Metals_Tour.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div> 
@@ -55,7 +55,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/SignicastTour.jpg" class="img-fluid  w-100" />
+            <img src="/images/Signicast_Tour.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>

@@ -12,7 +12,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2021-2022.jpg" class="img-fluid  w-100" />
+            <img src="/images/2021_2022.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -25,7 +25,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2020-2021.jpg" class="img-fluid  w-100" />
+            <img src="/images/2020_2021.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2019-2020.jpg" class="img-fluid  w-100" />
+            <img src="/images/2019_2020.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -51,7 +51,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2018-2019.jpg" class="img-fluid  w-100" />
+            <img src="/images/2018_2019.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -64,7 +64,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2017-2018.jpg" class="img-fluid  w-100" />
+            <img src="/images/2017_2018.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -77,7 +77,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2016-2017.jpg" class="img-fluid  w-100" />
+            <img src="/images/2016_2017.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -90,7 +90,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2015-2016.jpg" class="img-fluid  w-100" />
+            <img src="/images/2015_2016.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -103,7 +103,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2014-2015.jpg" class="img-fluid  w-100" />
+            <img src="/images/2014_2015.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -116,7 +116,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2013-2014.jpg" class="img-fluid  w-100" />
+            <img src="/images/2013_2014.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
@@ -129,7 +129,7 @@ order: 7
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2012-2013.jpg" class="img-fluid  w-100" />
+            <img src="/images/2012_2013.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>

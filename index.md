@@ -10,7 +10,7 @@ order: 1
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Spirit-Award.jpg" alt="Our team after winning the 2022 Spirit Award" class="img-fluid  w-100" />
+            <img src="/images/Spirit_Award.jpg" alt="Our team after winning the 2022 Spirit Award" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
