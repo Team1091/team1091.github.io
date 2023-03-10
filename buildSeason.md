@@ -3,6 +3,18 @@ layout: default
 title: Build Season Updates
 order: 4
 ---
+## Week Seven Updates
+<br>
+<div class="container-fluid px-0">
+    <div class="row">
+        <div class="col-12">
+            <img src="/images/Week7_Newsletter.jpg" class="img-fluid  w-100" />
+        </div>
+    </div>
+</div> 
+<br>
+<br>
+
 ## Week Six Updates
 <br>
 <div class="container-fluid px-0">

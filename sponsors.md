@@ -3,7 +3,7 @@ layout: default
 title: Sponsors
 order: 3
 ---
-[Here is our previous sponsors](oldSponsors.md)
+[Here are our previous sponsors](oldSponsors.md)
 
 For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor tiers! To help STEM growth through Robotics,  become a Sponsor.
 # 2023 Sponsors
