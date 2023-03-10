@@ -26,6 +26,7 @@ order: 7
             <img src="/images/2018_2019.jpg" class="img-fluid  w-100" />
         </div>
     </div>
+    <hr/>
     <div class="row">
         <div class="col-3">
             <h3>2017-2018</h3>
@@ -44,6 +45,7 @@ order: 7
             <img src="/images/2014_2015.jpg" class="img-fluid  w-100" />
         </div>
     </div>
+    <hr/>
     <div class="row">
         <div class="col-3">
             <h3>2013-2014</h3>
