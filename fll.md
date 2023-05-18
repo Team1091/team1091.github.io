@@ -3,7 +3,7 @@ title: Lego League
 order: 8
 ---
 ## FIRST LEGO League Overview
-· Open to students in 5th - 8th grade from Hartford Union High School feeder schools
+· Open to students in 5th - 8th grade from Hartford Union High School feeder schools and area homeschooled youth
 
 · FIRST® LEGO® League Challenge (FLL Challenge) is an international program, created by FIRST® and LEGO®, designed to get children interested in and excited about science, technology and engineering through teamwork, robotics, and research.
 
@@ -13,9 +13,9 @@ order: 8
 
 · Season begins mid-August
 
-. Our first competition date is December 3rd at Oak Creek High School
+. Our first competition date is in December
 
-· High-energy, sports-like tournament events held Nov. through March in the areas of robot design, robot game, innovation project & core values
+· High-energy, sports-like tournament events held Nov. through April in the areas of robot design, robot game, innovation project & core values
 
 · Email [FLL1091Robotics@gmail.com](mailto:FLL1091Robotics@gmail.com) if interested in joining or with questions
 
