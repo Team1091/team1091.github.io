@@ -43,7 +43,7 @@ through our Core Values.
 Additional information from our interest meeting can be found [here](files/FLLinfomeeting.pdf).
 
 ## How to donate
-If you would like to donate to our 2022-2023 season, please click the link below. Donations will go towards paying for competitions and promoting the Lego league.
+If you would like to donate to our 2023-2024 season, please click the link below. Donations will go towards paying for competitions and promoting the Lego league.
 
 [Click here to donate!](https://account.venmo.com/u/Oriole-Ascent-FLL1091)
 
