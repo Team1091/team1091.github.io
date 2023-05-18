@@ -4,7 +4,7 @@ order: 9
 ---
 ## What we do for our community:
 
-## 2021-2022 Involvement
+## 2022-2023 Involvement
 [Check Out Our Previous Years of Community Involvement!](communityInvolvement2021-2022.md)
 
 ## Jack Russell Memorial Library
