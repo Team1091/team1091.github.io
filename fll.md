@@ -20,7 +20,7 @@ order: 8
 · Email [FLL1091Robotics@gmail.com](mailto:FLL1091Robotics@gmail.com) if interested in joining or with questions
 
 ## First Lego League in Hartford
-FRC Team 1091 members along with community volunteers are developing a FLL program comprised of kids
+FRC Team 1091 members along with community volunteers are developing an FLL program comprised of kids
 in 5th-8th grade from the HUHS feeder schools.; which includes Erin, Hartford, HONOR, Holy Hill, 
 Richfield, Immanuel, Peace Lutheran, St. Bonniface, St. Gabriel's, St. Killians, and St. Matthew's
 
