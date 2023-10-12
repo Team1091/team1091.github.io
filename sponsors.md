@@ -24,7 +24,7 @@ For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor t
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2023_Valentines_Thank_You.jpg" class="img-fluid  w-100" />
+            <img src="/images/2023_sponsors.jpg" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
