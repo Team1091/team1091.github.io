@@ -24,6 +24,9 @@ Each member learns new skills that are not learned in an every-day classroom, bu
 We embody the ideals of FIRST in so many ways. 
 When one becomes part of our team you become part of something bigger than yourself, you get a group of friends, you get a family, and you get each other.
 
+## Countdown to Kickoff
+<p id="demo"></p>
+
 ## Contact Details
 
 <address>
