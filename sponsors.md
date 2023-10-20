@@ -12,19 +12,19 @@ For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor t
 * Rockwell
 
 ## Innovator Tier
-* Wisconsin department of public instruction
-* Hartford lodge No.120 
+* Wisconsin Department of Public Instruction
+* Hartford Lodge No.120 
 
 ## Bot friends Tier
-* Lions club
+* Lions Club
 * HED
 * MSOE University
-* Server products
+* Server Products
 
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/2023_sponsors.jpg" class="img-fluid  w-100" />
+            <img src="/images/2023_sponsors.jpg" class="img-fluid  w-100" alt="Thank you to our sponsors" />
         </div>
     </div>
 </div>

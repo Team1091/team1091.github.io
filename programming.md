@@ -9,7 +9,7 @@ We write programs to control the robot.  They are compiled and uploaded to the r
 Most years there is a 15 second fully autonomous period where we need to control the robot in code, then a remote controlled
 period where we allowed to use a controller.
 
-Code for previous years is stored on [Github](https://github.com/team1091).
+Code for previous years is stored on [GitHub](https://github.com/team1091).
 
 ### Getting setup with WPILIB
 WpiLib is a control library made by Warcestor Polytechnic Institute (WPI).  They have a pretty good site with documentation on how to use this from Java
