@@ -2,7 +2,7 @@
 title: Programming
 order: 6
 ---
-# Getting Started with Programming
+# Programming Team
 
 We write programs to control the robot.  They are compiled and uploaded to the robot before the competition.
 
@@ -35,3 +35,8 @@ becomes more complex with multiple states and transitions between them, we can r
 * [Pathfinding](https://www.redblobgames.com/pathfinding/a-star/introduction.html) - Can be used to plan a path between two points.
 * Planning - Allows us to use a list of actions to modify a complex world state to reach a goal.
 * [Vision](https://docs.wpilib.org/en/stable/docs/software/vision-processing/index.html) - Allows the robot to see and aim at targets.
+
+
+<br>
+
+# Build Team
