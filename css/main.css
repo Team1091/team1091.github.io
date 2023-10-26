@@ -55,7 +55,7 @@ code {
     background-repeat: no-repeat;
 	background-position: center;
 	animation: marquee 30s infinite linear;
-    color: white;
+    color: black;
     text-shadow: 0px 0px 4px black;
     margin-bottom: 0;
 	height: 305px;
