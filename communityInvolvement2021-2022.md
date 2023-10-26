@@ -5,7 +5,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/4H_2.jpg" class="img-fluid  w-100" />
+            <img src="/images/4H_2.jpg" class="img-fluid  w-100" alt="4H club outreach event"/>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Cub_Scouts.jpg" class="img-fluid  w-100" />
+            <img src="/images/Cub_Scouts.jpg" class="img-fluid  w-100" alt="Cub Scout outreach event"/>
         </div>
     </div>
 </div>
@@ -25,7 +25,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Brat_Fry.jpg" class="img-fluid  w-100" />
+            <img src="/images/Brat_Fry.jpg" class="img-fluid  w-100" alt="Lions Club brat fry"/>
         </div>
     </div>
 </div>
@@ -34,7 +34,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Lion_Clubs.jpg" class="img-fluid  w-100" />
+            <img src="/images/Lion_Clubs.jpg" class="img-fluid  w-100" alt="We received a check from the Lions Club"/>
         </div>
     </div>
 </div>
@@ -45,7 +45,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Contact_Metals_Tour.jpg" class="img-fluid  w-100" />
+            <img src="/images/Contact_Metals_Tour.jpg" class="img-fluid  w-100" alt="Contact metals tour outreach event"/>
         </div>
     </div>
 </div> 
@@ -55,7 +55,7 @@
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Signicast_Tour.jpg" class="img-fluid  w-100" />
+            <img src="/images/Signicast_Tour.jpg" class="img-fluid  w-100" alt="Signicast tour outreach event"/>
         </div>
     </div>
 </div>

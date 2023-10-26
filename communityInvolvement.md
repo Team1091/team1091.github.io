@@ -11,7 +11,7 @@ order: 9
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Community_Involvement_Lego.jpg" class="img-fluid  w-100" />
+            <img src="/images/Community_Involvement_Lego.jpg" class="img-fluid  w-100" alt="Lego Engineering challenge"/>
         </div>
     </div>
 </div> 
@@ -22,7 +22,7 @@ order: 9
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="/images/Server_Products_Tour.jpg" class="img-fluid  w-100" />
+            <img src="/images/Server_Products_Tour.jpg" class="img-fluid  w-100" alt="Server products tour outreach event"/>
         </div>
     </div>
 </div> 
