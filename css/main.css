@@ -17,6 +17,16 @@ body, aside {
     color: #0d0d0d;
 }
 
+.lightMode {
+    background: #f2f2f2;
+    color: #0d0d0d;
+}
+
+.darkMode {
+    background: #0d0d0d;
+    color: #f2f2f2;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
