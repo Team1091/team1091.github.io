@@ -58,6 +58,8 @@ Thank you!
     </div>
 </div>
 
+<br>
+
 1) Come to any meeting and notify a coach about your desire to join
 <p> - We will accept new team members year round </p>
 <p> - The best coach to notify is Bill Pfund in room 140</p>
