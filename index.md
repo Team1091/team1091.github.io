@@ -22,7 +22,7 @@ and teamwork.
 
 We are a family first and foremost, not related by blood, but by the love for ingenuity and creativity. 
 Each member learns new skills that are not learned in an every-day classroom, but can also be used outside the Robotics team setting. 
-We embody the ideals of FIRST in so many ways. 
+We embody the ideals of FIRST® in so many ways. 
 When one becomes part of our team you become part of something bigger than yourself, you get a group of friends, you get a family, and you get each other.
 
 
@@ -46,6 +46,21 @@ If you would like to donate, please download this [Check Donation Form](/files/D
 Donations will go towards paying for competitions, constructing the robot, and outreach promoting STEM in our community. 
 Thank you!
 
+# Joining the Team
 
+## Requirements to Join
 
+1) Come to any meeting and notify a coach about your desire to join
+    * We will accept any new members year round
+    * The best coach to notify is Bill Pfund in room 140
 
+2) Signed Co-Curricular Form and fulfillment of all Co-Curricular Requirements
+See [https://www.huhs.org/activities/](https://www.huhs.org/activities/) for more details
+
+3) Signed FIRST® STIMS paperwork
+[https://login.firstinspires.org/core/login?signin=03775054b119dc79e2ab82a0a0906146](https://login.firstinspires.org/core/login?signin=03775054b119dc79e2ab82a0a0906146)
+
+4) The full requirements to join can be found in the team handbook
+See [Team Handbook](/files/teamHandbook2023-2024.pdf)
+
+<br>
