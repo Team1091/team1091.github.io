@@ -16,6 +16,8 @@ order: 1
     </div>
 </div>
 
+<br>
+
 FRC Team 1091 Oriole Assault is composed of high school students with a goal of creating a robot in 6 weeks.  During
 those weeks the students have an opportunity to learn and hone skills including CAD, machining, programming, electronics,
 and teamwork.
