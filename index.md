@@ -25,8 +25,6 @@ Each member learns new skills that are not learned in an every-day classroom, bu
 We embody the ideals of FIRST in so many ways. 
 When one becomes part of our team you become part of something bigger than yourself, you get a group of friends, you get a family, and you get each other.
 
-## Countdown to Kickoff
-<p id="demo"></p>
 
 ## Contact Details
 
@@ -42,8 +40,12 @@ When one becomes part of our team you become part of something bigger than yours
 </address>
 
 
-## Donations
+## Sponsoring STEM
 
-If you would like to donate to our 2022-2023 season, please download this [Check Donation Form](/files/Donation_Form.pdf). 
+If you would like to donate, please download this [Check Donation Form](/files/Donation_Form.pdf). 
 Donations will go towards paying for competitions, constructing the robot, and outreach promoting STEM in our community. 
 Thank you!
+
+
+
+
