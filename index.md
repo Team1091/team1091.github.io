@@ -50,19 +50,17 @@ Thank you!
 
 # Joining the Team
 
-## Requirements to Join
-
 1) Come to any meeting and notify a coach about your desire to join
     * We will accept any new members year round
     * The best coach to notify is Bill Pfund in room 140
 
 2) Signed Co-Curricular Form and fulfillment of all Co-Curricular Requirements
-See [https://www.huhs.org/activities/](https://www.huhs.org/activities/) for more details
+<p>See <a href="https://www.huhs.org/activities/">https://www.huhs.org/activities</a> for more details</p>
 
 3) Signed FIRST® STIMS paperwork
-[https://login.firstinspires.org/core/login?signin=03775054b119dc79e2ab82a0a0906146](https://login.firstinspires.org/core/login?signin=03775054b119dc79e2ab82a0a0906146)
+<p><a href="https://login.firstinspires.org/core/login?signin=03775054b119dc79e2ab82a0a0906146">https://login.firstinspires.org/core/login?signin=03775054b119dc79e2ab82a0a0906146</a></p>
 
 4) The full requirements to join can be found in the team handbook
-See [Team Handbook](/files/teamHandbook2023-2024.pdf)
+<p>See <a href="/files/teamHandbook2023-2024.pdf">the Team Handbook</a> for more details</p>
 
 <br>
