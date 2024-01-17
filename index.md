@@ -73,7 +73,7 @@ Thank you!
 4) The full requirements to join can be found in the team handbook
 <p>See <a href="/files/teamHandbook2023-2024.pdf">the Team Handbook</a> for more details</p>
 
-# What is First Robotics Competition?
+# What is FIRST® Robotics Competition?
 
 ## Mission
 The mission of FIRST® is to inspire young people to be leaders and innovators in science and technology,
