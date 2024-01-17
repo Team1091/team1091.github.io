@@ -59,8 +59,8 @@ Thank you!
 </div>
 
 1) Come to any meeting and notify a coach about your desire to join
-    * We will accept any new members year round
-    * The best coach to notify is Bill Pfund in room 140
+<p> - We will accept new team members year round </p>
+<p> - The best coach to notify is Bill Pfund in room 140</p>
 
 2) Signed Co-Curricular Form and fulfillment of all Co-Curricular Requirements
 <p>See <a href="https://www.huhs.org/activities/">https://www.huhs.org/activities</a> for more details</p>
