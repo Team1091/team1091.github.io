@@ -6,20 +6,28 @@ order: 3
 [Here are our previous sponsors](oldSponsors.md)
 
 For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor tiers! To help STEM growth through Robotics,  become a Sponsor.
-# 2023 Sponsors
+# 2024 Sponsors
 
-## Inspirator Tier
+## Visionary
+### $2,000 or more
+* Mantz Automation
 * Rockwell
 
-## Innovator Tier
-* Wisconsin Department of Public Instruction
-* Hartford Lodge No.120 
-
-## Bot friends Tier
-* Lions Club
+## Innovator
+### $1,000 to $2,000
 * HED
-* MSOE University
-* Server Products
+* Hartford
+
+## Bot Friends
+### $500 to $1,000
+* East Side Lumber
+* Forte Bank
+* Hartford Community Service
+* Hartford Area Foundation
+
+## Toolbox Team
+### Less than $500
+* Douglas Carroll
 
 <div class="container-fluid px-0">
     <div class="row">
