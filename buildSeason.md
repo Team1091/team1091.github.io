@@ -7,8 +7,11 @@ order: 4
 <br>
 <div class="container-fluid px-0">
     <div class="row">
-        <div class="col-12">
-            <img src="/images/Week3_Newsletter.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
+        <div class="col-6">
+            <img src="/images/2024Week3Page1.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
+        </div>
+        <div class="col-6">
+            <img src="/images/2024Week3Page2.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
         </div>
     </div>
 </div> 
@@ -19,8 +22,11 @@ order: 4
 <br>
 <div class="container-fluid px-0">
     <div class="row">
-        <div class="col-12">
-            <img src="/images/Week2_Newsletter.jpg" class="img-fluid  w-100" alt="Updates from week two"/>
+        <div class="col-6">
+            <img src="/images/2024Week2Page1.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
+        </div>
+        <div class="col-6">
+            <img src="/images/2024Week2Page2.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
         </div>
     </div>
 </div>
@@ -31,8 +37,11 @@ order: 4
 <br>
 <div class="container-fluid px-0">
     <div class="row">
-        <div class="col-12">
-            <img src="/images/Week1_Newsletter.jpg" class="img-fluid  w-100" alt="Updates from week one"/>
+        <div class="col-6">
+            <img src="/images/2024Week1Page1.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
+        </div>
+        <div class="col-6">
+            <img src="/images/2024Week1Page2.jpg" class="img-fluid  w-100" alt="Updates from week three"/>
         </div>
     </div>
 </div> 
