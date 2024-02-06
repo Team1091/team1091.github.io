@@ -16,7 +16,7 @@ For our two competitions and Worlds playoffs, we need $44,000. See our Sponsor t
 ## Innovator
 ### $1,000 to $2,000
 * HED
-* Hartford
+* Hartford Masons
 
 ## Bot Friends
 ### $500 to $1,000
