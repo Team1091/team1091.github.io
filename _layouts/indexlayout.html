@@ -99,11 +99,16 @@ var x = setInterval(function() {
             <li class="nav-item">
                 <a class="nav-link" href="/" style="color:#000000">Home</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/sponsors" style="color:#000000">Sponsors</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/buildSeason" style="color:#000000">Build Updates</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="/buildSeason" id="navbarDropdown" role="Button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:#000000">
+                    Build Updates
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="/sponsors" class="dropdown-item" style="color:#000000">Sponsors</a>
+                    <a href="/social-media" class="dropdown-item" style="color:#000000">Social Media</a>
+                    <a href="/calendar" class="dropdown-item" style="color:#000000">Calendar</a>
+                    <a href="/buildSeason" class="dropdown-item" style="color:#000000">Build Updates</a>
+                </div>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/programming" style="color:#000000">Programming</a>
@@ -116,12 +121,6 @@ var x = setInterval(function() {
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/communityInvolvement" style="color:#000000">Community Involvement</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/social-media" style="color:#000000">Social Media</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/calendar" style="color:#000000">Calendar</a>
             </li>
         </ul>
     </nav>
