@@ -3,7 +3,7 @@ layout: default
 title: Calendar
 order: 11
 ---
-### Competitions that we attend
+### Upcoming Events
 
 **Engineering Bootcamp** June 24-27, 2024
 
