@@ -20,13 +20,15 @@
 
 * DPI Grant(2019, 2023)
 
-* East Side Lumber(2022)
+* Douglas Carroll (2024)
+
+* East Side Lumber(2022,2024)
 
 * Electro-Pro Inc.(2018)
 
 * FabriFast(2021-2023)
 
-* Forte Bank(2022)
+* Forte Bank(2022,2024)
 
 * Fuel Powersports(2020)
 
@@ -34,13 +36,13 @@
 
 * Gruszynski Family(2019)
 
-* Hartford Area Foundation(2017-2020)
+* Hartford Area Foundation(2017-2020,2024)
 
-* Hartford Community Service(2016-2022)
+* Hartford Community Service(2016-2024)
 
 * Hartford Lions Club(2016-2023)
 
-* Hartford Mason No.120 *(2019-2023)
+* Hartford Mason No.120 *(2019-2024)
 
 * Hedge Plus(2018)
 
@@ -48,7 +50,7 @@
 
 * Hepfner Racing Products(2022)
 
-* Hydro Electronics Devices(2017,2023)
+* Hydro Electronics Devices(2017,2023-2024)
 
 * JD Laser(2017)
 
@@ -56,7 +58,7 @@
 
 * Lutz Family Foundation(2016-2019)
 
-* Mantz Automation(2016,2022)
+* Mantz Automation(2016,2022,2024)
 
 * Mason Hartford Lodge(2022)
 
@@ -80,7 +82,7 @@
 
 * Quad Graphics(2017, 2020)
 
-* Rockwell Automation(2017-2022)
+* Rockwell Automation(2017-2024)
 
 * Rose Family(2019)
 
