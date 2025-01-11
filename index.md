@@ -11,7 +11,7 @@ order: 1
 <div class="container-fluid px-0">
     <div class="row">
         <div class="col-12">
-            <img src="spiritAward2023-2024.jpg" alt="Our team after winning the 2024 Spirit Award at seven rivers" class="img-fluid  w-100" />
+            <img src="images/spiritAward2023-2024.jpg" alt="Our team after winning the 2024 Spirit Award at seven rivers" class="img-fluid  w-100" />
         </div>
     </div>
 </div>
