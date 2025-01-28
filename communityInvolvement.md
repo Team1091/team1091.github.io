@@ -2,8 +2,8 @@
 title: Community Involvement
 order: 9
 ---
-## What we do for our community:
-
+## W.I.N.G.S:
+Working to Inspire the Next Generation in STEM
 ## 2024-2025 Involvement
 [Check Out Our Previous Years of Community Involvement!](communityInvolvement2021-2022.md)
 

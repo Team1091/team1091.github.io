@@ -38,5 +38,3 @@ becomes more complex with multiple states and transitions between them, we can r
 
 
 <br>
-
-# Build Team
