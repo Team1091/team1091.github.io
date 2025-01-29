@@ -166,6 +166,9 @@ p {
     position: absolute;
     background: var(--container);
     z-index: 2;
+	opacity: 0;
+	transition: opacity .5s;
+    border-radius: 0 0 8px 8px;
 }
 .dropdown-menu a {
     padding: 1vmax;
@@ -175,7 +178,5 @@ p {
 }
 .dropdown a:hover + .dropdown-menu, .dropdown-menu:hover {
     display: inline-block;
-}
-.dropdown-menu {
-    border-radius: 0 0 8px 8px;
+	opacity: 1;
 }
