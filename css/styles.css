@@ -32,7 +32,6 @@ body {
 		--bg: #222;
 		--fg: #eee;
 		--container: #333;
-		--light-container: #444;
 	}
 }
 
@@ -81,12 +80,20 @@ i {
 	transition: color .2s, background .2s;
 }
 
-#main-nav .logo {
-	padding: 1vmax;
+.logo {
+	padding: 1ch;
+}
+.logo .text {
+	fill: var(--fg);
+	transition: fill .5s;
+}
+
+.logo:hover .text {
+	fill: var(--team-color);
 }
 
 #main-nav a:hover {
-	color: white;
+	color: #fff;
 	background: var(--team-color);
 }
 
@@ -149,10 +156,10 @@ p {
 	font-size: 2vmax;
 	border: none;
 	border-radius: 8px;
-	background: var(--light-container);
+	background: var(--container);
 	display: inline-block;
 	text-align: center;
-	color: white;
+	color: #fff;
 	transition: background .2s;
 	cursor: pointer;
 }
@@ -174,7 +181,7 @@ p {
 .dropdown-menu a {
 	padding: 1vmax;
 	display: block;
-	color: white;
+	color: var(--fg);
 	text-decoration: none;
 }
 
