@@ -1,0 +1,163 @@
+@import url("https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+	background: var(--bg);
+	color: var(--fg);
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+}
+
+html,
+body {
+	min-height: 100vh;
+}
+
+:root {
+	--team-color: #ff5a00;
+	--bg: #eee;
+	--fg: #222;
+	--container: #ccc;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: #222;
+		--fg: #eee;
+		--container: #333;
+		--light-container: #444;
+	}
+}
+
+address a,
+i {
+	color: var(--team-color);
+	vertical-align: middle;
+	line-height: 100%;
+	font-size: inherit;
+	margin-right: .2ch;
+}
+
+#main-nav,
+#main-nav ul,
+#main-nav li {
+	display: flex;
+}
+
+#main-nav {
+	background: var(--bg);
+	border-bottom: 2px solid var(--container);
+	padding: 2vmax;
+	justify-content: space-between;
+	align-items: stretch;
+	position: sticky;
+	top: 0px;
+	overflow: hidden;
+}
+
+#main-nav ul {
+	border-radius: 8px;
+	overflow: hidden;
+	border: 2px solid var(--container);
+}
+
+#main-nav ul {
+	list-style: none;
+}
+
+#main-nav a {
+	padding: 0 3ch;
+	display: grid;
+	place-items: center;
+	height: 100%;
+	text-decoration: none;
+	color: currentColor;
+	transition: color .2s, background .2s;
+}
+
+#main-nav .logo {
+	padding: 1vmax;
+}
+
+#main-nav a:hover {
+	color: white;
+	background: var(--team-color);
+}
+
+#footer {
+	margin-top: 2vmax;
+	padding: 2vmax;
+	background: var(--container);
+}
+
+#footer address {
+	width: 100%;
+}
+
+#footer ul {
+	list-style: none;
+	justify-content: space-between;
+	font-style: normal;
+	display: flex;
+	gap: 2ch;
+}
+
+p {
+	max-width: 75%;
+	margin: auto;
+	line-height: 1.5;
+}
+
+@media (max-width: 1000px) {
+
+	#footer,
+	#footer ul {
+		gap: 2ch;
+		text-align: center;
+		flex-direction: column;
+	}
+}
+
+.main-image {
+	margin: 3vmax auto;
+}
+
+.main-image img {
+	width: 60%;
+	margin-bottom: 1vmax;
+	border-radius: 8px;
+}
+
+.team-join {
+	border-radius: 8px;
+	padding: 2vmax;
+	width: 35%;
+	margin: 5vmax auto;
+	background: var(--container);
+}
+
+.team-join a {
+	width: 75%;
+	margin-top: 2vmax;
+	padding: 2vmax;
+	font-size: 2vmax;
+	border: none;
+	border-radius: 8px;
+	background: var(--light-container);
+	display: inline-block;
+	text-align: center;
+	color: white;
+	transition: background .2s;
+	cursor: pointer;
+}
+
+.team-join a:hover {
+	background: var(--team-color);
+}
