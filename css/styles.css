@@ -162,21 +162,24 @@ p {
 }
 
 .dropdown-menu {
-    display: none;
-    position: absolute;
-    background: var(--container);
-    z-index: 2;
+	display: none;
+	position: absolute;
+	background: var(--container);
+	z-index: 2;
 	opacity: 0;
 	transition: opacity .5s;
-    border-radius: 0 0 8px 8px;
+	border-radius: 0 0 8px 8px;
 }
+
 .dropdown-menu a {
-    padding: 1vmax;
-    display: block;
-    color: white;
-    text-decoration: none;
+	padding: 1vmax;
+	display: block;
+	color: white;
+	text-decoration: none;
 }
-.dropdown a:hover + .dropdown-menu, .dropdown-menu:hover {
-    display: inline-block;
+
+.dropdown a:hover+.dropdown-menu,
+.dropdown-menu:hover {
+	display: inline-block;
 	opacity: 1;
 }
