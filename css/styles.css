@@ -59,7 +59,6 @@ i {
 	align-items: stretch;
 	position: sticky;
 	top: 0px;
-	overflow: hidden;
 }
 
 #main-nav ul {
@@ -72,7 +71,7 @@ i {
 	list-style: none;
 }
 
-#main-nav a {
+#main-nav a:not(.dropdown-item) {
 	padding: 0 3ch;
 	display: grid;
 	place-items: center;
@@ -160,4 +159,23 @@ p {
 
 .team-join a:hover {
 	background: var(--team-color);
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background: var(--container);
+    z-index: 2;
+}
+.dropdown-menu a {
+    padding: 1vmax;
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+.dropdown a:hover + .dropdown-menu, .dropdown-menu:hover {
+    display: inline-block;
+}
+.dropdown-menu {
+    border-radius: 0 0 8px 8px;
 }

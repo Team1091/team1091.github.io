@@ -14,12 +14,19 @@
 			<h1>Logo Here</h1>
 		</div>
 		<ul>
-			<button onclick="myFunction" class="/about">About</button>
-			<div id="myDropdown" class="dropdown-content">
-				<a href="galleryOfRobots">Gallery Of Robots</a>
-				<a href="Awards">awards</a>
-				<a href="#">Link 3</a>
-			</div>
+			<li class="dropdown">
+				<a aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="/teamInfo" id="navbarDropdown"
+				   role="Button">
+					Team Information
+				</a>
+				<div aria-labelledby="navbarDropdown" class="dropdown-menu">
+					<a class="dropdown-item" href="/sponsors">Sponsors</a>
+					<a class="dropdown-item" href="/social-media">Social Media</a>
+					<a class="dropdown-item" href="/calendar">Calendar</a>
+					<a class="dropdown-item" href="/buildSeason">Build Updates</a>
+					<a class="dropdown-item" href="/galleryOfRobots">Gallery Of Robots</a>
+				</div>
+			</li>
 			<li><a href="/outreach">Outreach</a></li>
 			<li><a href="/sponsors">Sponsors</a></li>
 			<li><a href="/resources">Resources</a></li>
