@@ -57,7 +57,7 @@ i {
 	justify-content: space-between;
 	align-items: stretch;
 	position: sticky;
-	top: 0px;
+	margin-bottom: 2vmax;
 }
 
 #main-nav ul {
