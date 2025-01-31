@@ -132,6 +132,7 @@ p {
 	vertical-align: top;
 	margin-top: 1vmax;
 	background: var(--bg);
+	pointer-events: none;
 	z-index: 2;
 	flex-direction: column;
 	display: none;
@@ -141,4 +142,5 @@ p {
 .dropdown:hover ul, .dropdown ul:hover {
 	opacity: 1;
 	display: block;
+	pointer-events: auto;
 }
