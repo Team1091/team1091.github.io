@@ -97,11 +97,11 @@ body {
     transition: background 0.2s;
 }
 
-#main-nav > ul li:first-child a {
+#main-nav > ul > li:first-child a {
     border-radius: 8px 0 0 8px;
 }
 
-#main-nav > ul li:last-child a {
+#main-nav > ul > li:last-child a {
     border-radius: 0 8px 8px 0;
 }
 
