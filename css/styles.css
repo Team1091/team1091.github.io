@@ -105,11 +105,15 @@ body {
     border-radius: 0 8px 8px 0;
 }
 
-#main-nav a:hover {
+#main-nav li a:hover {
     background: var(--team-color);
     color: var(--fg);
 }
 
+.logo img {
+    height: 5ch;
+    vertical-align: middle;
+}
 .dropdown {
     position: relative;
 }
