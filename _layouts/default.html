@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="ICON" href="newBird.ico" type="image/newBird.ico" />
 <head>
 
 	<title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Team 1091</title>
-
+	<!--suppress HtmlUnknownTarget -->
+	<link rel="favicon" href="images/newBird.ico" />
 
 	<meta name="charset" content="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
@@ -43,11 +43,14 @@ var x = setInterval(function() {
 
 <body>
 	<nav id="main-nav">
-		<ul>
-			<div class="logo">
-				<li><a href="/index">Logo Here</a></li>
-			</div>
-		</ul>
+		<div class="logo">
+			<a href="/">
+				<picture>
+					<source srcset="/images/logo-dark.png" media="(prefers-color-scheme: dark)"/>
+					<img src="/images/logo-light.png" alt=""/>
+				</picture>
+			</a>
+		</div>
 		<ul>
 			<li class="dropdown">
 				<a href="/teamInfo" id="navbarDropdown1" role="Button">
