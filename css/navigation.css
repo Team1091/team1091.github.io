@@ -1,0 +1,115 @@
+
+#main-nav {
+    display: flex;
+    margin: 2vmax;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#main-nav ul {
+    display: flex;
+    border-radius: 8px;
+    list-style: none;
+    border: 2px solid var(--container);
+}
+
+#main-nav a {
+    padding: 2vmax;
+    display: block;
+    color: var(--fg);
+    text-decoration: none;
+    transition: background 0.2s;
+    text-align: center;
+}
+
+/* border fixes for first and last navbar items */
+#main-nav > ul > li:first-child > a {
+    border-radius: 8px 0 0 8px;
+}
+
+#main-nav > ul > li:last-child > a {
+    border-radius: 0 8px 8px 0;
+}
+
+#main-nav li a:hover {
+    background: var(--team-color);
+    color: var(--fg);
+}
+
+.logo img {
+    width: 18ch;
+    vertical-align: middle;
+}
+
+.dropdown {
+    position: relative;
+}
+
+.dropdown ul {
+    position: absolute;
+    vertical-align: top;
+    margin-top: 1vmax;
+    background: var(--bg);
+    z-index: 2;
+    flex-direction: column;
+    display: none;
+    opacity: 0;
+    transition: opacity .2s;
+    transition-delay: .3s;
+}
+
+.dropdown:hover ul, .dropdown ul:hover {
+    opacity: 1;
+    display: flex;
+}
+
+/* More border fixes for dropdowns */
+.dropdown > ul > li:first-child > a {
+    border-radius: 8px 8px 0 0;
+}
+
+.dropdown > ul > li:last-child > a {
+    border-radius: 0 0 8px 8px;
+}
+
+#footer {
+    margin-top: 2vmax;
+    padding: 2vmax;
+    background: var(--container);
+}
+
+#footer address {
+    width: 100%;
+}
+
+#footer ul {
+    list-style: none;
+    justify-content: space-between;
+    font-style: normal;
+    display: flex;
+    gap: 2ch;
+}
+
+/* Mobile styles */
+@media (max-width: 1000px) {
+    #footer,
+    #footer ul {
+        gap: 2ch;
+        text-align: center;
+        flex-direction: column;
+    }
+    #main-nav, #main-nav ul {
+        flex-direction: column;
+        gap: 2vmax;
+        width: 90%;
+    }
+    #main-nav ul a {
+        padding: .5ch;
+    }
+    .logo img {
+        width: 100%;
+    }
+    #main-nav {
+        margin: 2vmax auto;
+    }
+}
