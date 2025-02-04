@@ -67,6 +67,15 @@
 			</ul>
 		</address>
 	</footer>
+
+	<script>
+		document.body.onmousedown = () => {
+			const navItem = document.querySelector("[name=dropdowns]:checked")
+			if (navItem){
+				navItem.checked = false
+			}
+		}
+	</script>
 </body>
 
 </html>
