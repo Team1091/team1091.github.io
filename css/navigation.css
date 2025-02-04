@@ -13,7 +13,7 @@
     border: 2px solid var(--container);
 }
 
-#main-nav a {
+#main-nav :is(a, label) {
     padding: 2vmax;
     display: block;
     color: var(--fg);
@@ -31,7 +31,7 @@
     border-radius: 0 8px 8px 0;
 }
 
-#main-nav li a:hover {
+#main-nav li :is(label, a):hover {
     background: var(--team-color);
     color: var(--fg);
 }
@@ -43,6 +43,10 @@
 
 .dropdown {
     position: relative;
+}
+
+.dropdown input[type=radio] {
+    display: none;
 }
 
 .dropdown ul {
@@ -58,17 +62,17 @@
     transition-delay: .3s;
 }
 
-.dropdown:hover ul, .dropdown ul:hover {
+input[type=radio]:checked + ul {
     opacity: 1;
     display: flex;
 }
 
 /* More border fixes for dropdowns */
-.dropdown > ul > li:first-child > a {
+.dropdown > ul > li:first-child > :is(label, a) {
     border-radius: 8px 8px 0 0;
 }
 
-.dropdown > ul > li:last-child > a {
+.dropdown > ul > li:last-child > :is(label, a) {
     border-radius: 0 0 8px 8px;
 }
 
