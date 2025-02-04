@@ -47,7 +47,6 @@ body {
 .main-image img {
     width: 60%;
     border-radius: 8px;
-      transform:rotate(1.98deg);
 
 }
 
@@ -66,7 +65,6 @@ td {
 
 h1, h2, h3 {
     text-align: center;
-    transform:rotate(-1.02deg);
 }
 
 a, i {
