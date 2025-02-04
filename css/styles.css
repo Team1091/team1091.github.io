@@ -31,6 +31,8 @@ body {
 }
 
 .content-container {
+
+
     margin: 5vmax;
 }
 
@@ -45,6 +47,8 @@ body {
 .main-image img {
     width: 60%;
     border-radius: 8px;
+      transform:rotate(1.98deg);
+
 }
 
 /* Sensible defaults */
@@ -62,6 +66,7 @@ td {
 
 h1, h2, h3 {
     text-align: center;
+    transform:rotate(-1.02deg);
 }
 
 a, i {
@@ -72,4 +77,9 @@ i {
     vertical-align: middle;
     margin-right: .2ch;
 }
-
+/*.countDown{
+  transform:rotate(-90.6deg);
+  position: absolute;
+  top: 250px;
+  right: 0px;
+}*/
