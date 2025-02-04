@@ -31,7 +31,7 @@ body {
 }
 
 .content-container {
-  transform:rotate(-0.98deg);
+
 
     margin: 5vmax;
 }
@@ -47,7 +47,7 @@ body {
 .main-image img {
     width: 60%;
     border-radius: 8px;
-      transform:rotate(0.98deg);
+      transform:rotate(1.98deg);
 
 }
 
@@ -66,6 +66,7 @@ td {
 
 h1, h2, h3 {
     text-align: center;
+    transform:rotate(-15.98deg);
 }
 
 a, i {
