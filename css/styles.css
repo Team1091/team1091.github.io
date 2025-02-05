@@ -1,5 +1,16 @@
 @import url("https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css");
 
+@font-face {
+    font-family: 'Roboto';
+    src: url("/fonts/Roboto.ttf");
+}
+
+@font-face {
+    font-family: 'ROG Fonts';
+    src: url("/fonts/ROG FONTS.otf");
+    font-weight: 100;
+}
+
 /* CSS reset */
 * {
     margin: 0;
@@ -9,7 +20,8 @@
 }
 
 body {
-    font-family: sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5vmax;
     background: var(--bg);
     color: var(--fg);
     /* Make room for header/footer and allocate remaining space to content */
@@ -50,7 +62,6 @@ body {
 
 }
 
-/* Sensible defaults */
 table, thead {
     padding: 1ch;
     margin: auto;
@@ -67,6 +78,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
+h1 {
+    font-family: "ROG Fonts", sans-serif;
+}
+
 a, i {
     color: var(--team-color);
 }
@@ -81,4 +96,23 @@ i {
     background: var(--container);
     border-radius: 8px;
     margin: 2vmax;
+    outline: 2px solid var(--team-color);
+}
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+    .countdown {
+        animation: pulseShadow 5s linear forwards alternate infinite;
+    }
+
+    @keyframes pulseShadow {
+         0%, 100% {
+             box-shadow: 0 0 16px transparent;
+         }
+         50% {
+             box-shadow: 0 0 16px var(--team-color);
+         }
+     }
 }
