@@ -80,4 +80,5 @@ i {
     padding: 2vmax;
     background: var(--container);
     border-radius: 8px;
+    margin: 2vmax;
 }
