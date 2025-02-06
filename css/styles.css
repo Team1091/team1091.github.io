@@ -2,11 +2,13 @@
 
 @font-face {
     font-family: 'Roboto';
+    <p style="letter-spacing: 3px;"></p>
     src: url("/fonts/Roboto.ttf");
 }
 
 @font-face {
     font-family: 'ROG Fonts';
+    <p style="letter-spacing: 3px;"></p>
     src: url("/fonts/ROG FONTS.otf");
     font-weight: 100;
 }
@@ -81,6 +83,7 @@ h1, h2, h3 {
 
 h1 {
     font-family: "ROG Fonts", sans-serif;
+    <p style="letter-spacing: 3px;"></p>
 }
 
 a, i {
