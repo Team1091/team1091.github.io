@@ -4,3 +4,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+exclude:
+  - .idea

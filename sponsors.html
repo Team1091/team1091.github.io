@@ -6,7 +6,7 @@ order: 3
 <h2>For our competitions, tournaments, and Worlds playoffs, we need $44,000.</h2>
 <p>Help STEM growth through Robotics by becoming a Sponsor. See our Sponsor tiers!</p>
 <h1>2025 Sponsors</h1>
-
+<p><i class="bx bx-cog"></i> = Recurring sponsor (3+ years)</p>
 <table>
     <thead>
         <tr>
@@ -18,11 +18,13 @@ order: 3
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://www.continentalmotorsllc.net" class="recurringSponsor">Continental Motors</a></td>
             <td><a href="https://www.rockwellautomation.com/">Rockwell Automations</a></td>
             <td><a href="https://www.shrinersinternational.org/en/chapters/tripoli-shriners">Tripoli Shriners</a></td>
             <td><a href="https://dpi.wi.gov/">WI DPI</a></td>
         </tr>
         <tr>
+            <td><a href="https://mantzautomation.com/" class="recurringSponsor">Mantz Automation</a></td>
             <td><a href="https://wimasons.org">Hartford Masons</a></td>
             <td><a href="https://www.bradleycorp.com/">Bradley</a></td>
         </tr>
@@ -44,12 +46,21 @@ order: 3
     </tbody>
 </table>
 <style>
-    /* Invert table body with CSS for expected behavior */
+    /* Invert table rows/columns with CSS for easier organization */
+    a {
+        text-decoration: none;
+    }
     tbody tr {
         display: table-cell;
     }
     tbody td {
         display: block;
+    }
+    .recurringSponsor::after {
+        content: "\ea6e";
+        margin-left: 1vmax;
+        /*noinspection CssNoGenericFontName*/
+        font-family: 'boxicons';
     }
     body {
         text-align: center;
