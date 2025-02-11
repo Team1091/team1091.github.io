@@ -2,6 +2,7 @@ function createCountdown(date, id, endText="DONE"){
     if (typeof date == "string"){
         date = new Date(date)
     }
+    const timer = document.getElementById(id);
     let interval = setInterval(update, 1000);
 
     function update() {

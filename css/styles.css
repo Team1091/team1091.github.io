@@ -55,10 +55,9 @@ body {
     }
 }
 
-.main-image img {
-    width: 60%;
+img {
     border-radius: 8px;
-
+    width: 60%;
 }
 
 table, thead {
@@ -99,8 +98,12 @@ i {
     outline: 2px solid var(--team-color);
 }
 
-
-
+.image-container {
+    flex-flow: row wrap;
+    width: 100%;
+    display: flex;
+    gap: 2ch;
+}
 
 @media (prefers-reduced-motion: no-preference) {
     .countdown {
