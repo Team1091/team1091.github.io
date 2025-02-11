@@ -20,6 +20,7 @@
 }
 
 body {
+    text-align: center;
     font-family: "Roboto", sans-serif;
     font-size: 1.5vmax;
     background: var(--bg);
@@ -78,6 +79,7 @@ h1, h2, h3 {
 
 h1 {
     font-family: "ROG Fonts", sans-serif;
+    letter-spacing: .1ch;
 }
 
 a, i {
