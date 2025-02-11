@@ -97,14 +97,6 @@ i {
     margin: 2vmax;
     outline: 2px solid var(--team-color);
 }
-
-.image-container {
-    flex-flow: row wrap;
-    width: 100%;
-    display: flex;
-    gap: 2ch;
-}
-
 @media (prefers-reduced-motion: no-preference) {
     .countdown {
         animation: pulseShadow 5s linear forwards alternate infinite;
