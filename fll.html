@@ -7,24 +7,28 @@ title: FLL
         height: 10ch;
         width: auto;
     }
-</style>
-<div class="countdown">
-    <h1>Countdown to Kickoff</h1>
-    <h2 id="timerForFLL"></h2>
-</div>
-<img id="changingImage" src="/images/cuteOzzyFLLRo.png" alt="Changing Image" class="roLogo">
 
-<script>
-    const images = ["/images/cuteOzzyFLLRo.png", "/images/bendCuteOzzyFLLRo.png"];
-    let currentIndex = 0;
-
-    function changeImage() {
-        currentIndex = (currentIndex + 1) % images.length;
-        document.getElementById("changingImage").src = images[currentIndex];
+    @media screen and (prefers-reduced-motion: no-preference) {
+        .roLogo {
+            animation: flying 1s infinite alternate ease-in-out;
+        }
     }
 
-    setInterval(changeImage, 300);
-</script>
+    @keyframes flying {
+        from {
+            transform: translateY(0px);
+        }
+        to {
+            transform: translateY(2vmax);
+        }
+    }
+</style>
+<div class="countdown">
+    <h1>Countdown to FLL Kickoff</h1>
+    <h2 id="timerForFLL"></h2>
+</div>
+<img src="/images/cuteOzzyFLLRo.png" alt="Ro, the mascot for First LEGO League" class="roLogo">
+
 <h1>Team 1091 FIRST® LEGO® League</h1>
 <h3>FIRST® LEGO® League Challenge (FLL Challenge) is an international program, created by FIRST® and LEGO®, designed to
     get children interested in and excited about science, technology and engineering through teamwork, robotics, and
@@ -42,7 +46,7 @@ title: FLL
     <li>High-energy tournaments November&mdash;April</li>
 </ul>
 <img src="/images/PXL_20241208_193416339.jpg" class="img-fluid  w-100" alt=""/>
-<h2>Want to join or have any questions? Email <a href="mailto:FLL1091Robotics@gmail.com">FLL1091Robotics@gmail.com</a>.
+<h2>Want to join or have any questions? Email <a target="_blank" href="mailto:FLL1091Robotics@gmail.com">FLL1091Robotics@gmail.com</a>.
 </h2>
 <hr/>
 <h2>What is FIRST® LEGO® League?</h2>
@@ -63,8 +67,10 @@ title: FLL
 <div class="main-image">
     <img src="/images/PXL_20241127_000554756.jpg" class="img-fluid  w-100" alt=""/>
 </div>
-<h3>Learn more about FIRST® LEGO® League on its <a href="https://www.firstlegoleague.org">website</a></h3>
+<h3>Learn more about FIRST® LEGO® League on its <a href="https://www.firstlegoleague.org" target="_blank">website</a>
+</h3>
 <h2>Donations</h2>
-<h2><a href="https://account.venmo.com/u/Oriole-Ascent-FLL1091">Click here to donate to Team 1091 FLL!</a> (Venmo)</h2>
+<h2><a href="https://account.venmo.com/u/Oriole-Ascent-FLL1091" target="_blank">Click here to donate to Team 1091
+    FLL!</a> (Venmo)</h2>
 <script src="/js/countdown.js"></script>
 <script>createCountdown("August 20, 2025 12:00:00", "timerForFLL")</script>

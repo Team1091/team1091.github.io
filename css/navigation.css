@@ -53,18 +53,20 @@
 .dropdown ul {
     position: absolute;
     vertical-align: top;
+    width: 100%;
     margin-top: 1vmax;
     background: var(--bg);
     z-index: 2;
     flex-direction: column;
-    display: none;
+    display: flex;
+    pointer-events: none;
     opacity: 0;
     transition: opacity .2s;
 }
 
 input[type=radio]:checked + ul {
     opacity: 1;
-    display: flex;
+    pointer-events: all;
 }
 
 /* More border fixes for dropdowns */
@@ -102,18 +104,33 @@ input[type=radio]:checked + ul {
         text-align: center;
         flex-direction: column;
     }
+
     #main-nav, #main-nav ul {
         flex-direction: column;
-        gap: 2vmax;
+    }
+
+    #main-nav, #main-nav > ul {
         width: 90%;
     }
+
     #main-nav ul :is(label, a) {
-        padding: .5ch;
+        padding: 1vmax;
     }
+
     .logo img {
         width: 100%;
     }
+
     #main-nav {
         margin: 2vmax auto;
+    }
+
+    /* opposite border fixes for mobile layout */
+    #main-nav > ul > li:first-child > :is(label, a) {
+        border-radius: 8px 8px 0 0;
+    }
+
+    #main-nav > ul > li:last-child > :is(label, a) {
+        border-radius: 0 0 8px 8px;
     }
 }
