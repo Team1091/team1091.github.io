@@ -59,7 +59,7 @@ body {
 
 img {
     border-radius: 8px;
-    width: 60%;
+    max-width: 60%;
 }
 
 table, thead {
