@@ -10,7 +10,7 @@ order: 3
     <div class="sponsorCategory recurringSponsors">
         <h2>Recurring Sponsors (3+ Years)</h2>
         <a target="_blank" href="https://mantzautomation.com/" class="recurringSponsor sponsorLogo">
-            <img src="https://mantzautomation.com/wp-content/uploads/2022/03/Mantz-Automation.png"
+            <img src="/images/Mantz.png"
                  alt="Mantz Automation">
         </a>
         <a target="_blank" href="https://www.continentalmotorsllc.net" class="sponsorLogo recurringSponsor">
@@ -20,7 +20,7 @@ order: 3
     <div class="sponsorCategory">
         <h2>Visionaries ($2,000+)</h2>
         <a target="_blank" href="https://www.rockwellautomation.com/" class="sponsorHighLogo"><img alt="Rockwell Automation"
-                                                                                               src="https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/images/logos/2019_Logo_rgb_RA_Bug-LeftText_color.svg"></a>
+                                                                                               src="/images/Rockwell.png"></a>
         <a target="_blank" href="https://www.shrinersinternational.org/en/chapters/tripoli-shriners"
            class="sponsorHighLogo">
             <picture>
@@ -32,14 +32,13 @@ order: 3
         </a>
         <a target="_blank" href="https://dpi.wi.gov/" class="sponsorHighLogo">
             <img alt="Wisconsin Department of Public Instruction"
-                 src="https://dpi.wi.gov/sites/default/files/imce/dpi_logo_horiz.svg">
+                 src="/images/widpi.png">
         </a>
     </div>
     <div class="sponsorCategory">
         <h2>Innovators ($1,000&mdash;$1,999)</h2>
         <a target="_blank" href="https://wimasons.org" class="sponsorHighMidLogo">
-            <img alt="Hartford Wisconsin Masons"
-                 src="https://wimasons.org/wp-content/uploads/2020/11/Wisconsin-Masons-Logo-Navbar.png">
+            <img alt="Hartford Wisconsin Masons" src="/images/Masons.jpg">
         </a>
         <a target="_blank" href="https://www.bradleycorp.com/" class="sponsorHighMidLogo">
             <img src="https://www.bradleycorp.com/f3bd9aaf9f386218e0e5.png" alt="Bradley Corporation">
@@ -128,6 +127,9 @@ order: 3
         /* override master image default */
         max-width: initial;
     }
+    .sponsorHighLogo:hover {
+        background: var(--team-color);
+    }
         .sponsorHighMidLogo {
         padding: 1vmax;
         display: inline-block;
@@ -142,6 +144,9 @@ order: 3
         height: 7ch;
         /* override master image default */
         max-width: initial;
+    }
+    .sponsorHighMidLogo:hover {
+        background: var(--team-color);
     }
         .sponsorLowMidLogo {
         padding: 1vmax;
@@ -158,6 +163,9 @@ order: 3
         /* override master image default */
         max-width: initial;
     }
+    .sponsorLowMidLogo:hover {
+        background: var(--team-color);
+    }
             .sponsorLowLogo {
         padding: 1vmax;
         display: inline-block;
@@ -172,6 +180,9 @@ order: 3
         height: 2ch;
         /* override master image default */
         max-width: initial;
+    }
+    .sponsorLowLogo:hover {
+        background: var(--team-color);
     }
     .sponsorLogo:hover {
         background: var(--team-color);
