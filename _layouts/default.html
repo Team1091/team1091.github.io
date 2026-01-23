@@ -3,11 +3,13 @@
 <head>
 
 	<title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Team 1091</title>
-	<!--suppress HtmlUnknownTarget -->
+	<!-- sets tab icon -->
 	<link href="/logos/favicon.ico" rel="icon"/>
 
 	<meta name="charset" content="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+	<!-- import styles needed for all pages -->
 	<link rel="stylesheet" href="/css/navigation.css">
 	<link rel="stylesheet" href="/css/styles.css">
 </head>
@@ -15,18 +17,21 @@
 	<nav id="main-nav">
 		<div class="logo">
 			<a href="/">
+				<!-- light and dark icons -->
 				<picture>
 					<source srcset="/logos/logo-dark.png" media="(prefers-color-scheme: dark)"/>
 					<img src="/logos/logo-light.png" alt=""/>
 				</picture>
 			</a>
 		</div>
+		<!-- navigation -->
 		<ul>
 			<li class="dropdown">
 				<label for="teamInfoDropdown">
 					Team Information
 				</label>
 				<input type="radio" name="dropdowns" id="teamInfoDropdown">
+				<!-- list under navigation item = dropdown -->
 				<ul aria-labelledby="teamInfoDropdown">
 					<li><a href="/sponsors">Sponsors</a></li>
 					<li><a href="/buildSeason">Build Updates</a></li>
@@ -50,6 +55,7 @@
 		</ul>
 	</nav>
 	<div class="content-container">
+		<!-- replaced with file contents -->
 		{{ content }}
 	</div>
 	<footer id="footer">
@@ -70,6 +76,7 @@
 
 	<script>
 		document.body.onmouseup = () => {
+			// closes open dropdowns after clicked off
 			const navItem = document.querySelector("[name=dropdowns]:checked")
 			if (navItem){
 				navItem.checked = false
