@@ -58,11 +58,6 @@ body {
     }
 }
 
-img {
-    border-radius: 8px;
-    max-width: 60%;
-}
-
 table, thead {
     padding: 1ch;
     margin: auto;
