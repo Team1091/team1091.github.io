@@ -62,41 +62,38 @@ order: 3
     <div class="sponsorCategory sponsorBotFriends">
         <h2>Bot Friends ($500&mdash;$1,000)</h2>
         <div class="sponsorLinks">
-
-        <a target="_blank" class="sponsorLogo">
-            <img src="/images/CMI.png"
-                 alt="Contact Metals Inc.">
-        </a>
-        <a target="_blank" class="sponsorLogo">
-            <img src="/images/image.png" alt="Piggly Wiggly">
-        </a>
-        </a>
-        arget="_blank"  class="sponsorLogo">
-            <img src="/images/HAF.png"
-                 alt="Hartford Area Foundation">
-        </a>
-
-        <a target="_blank"  class="sponsorLogo">
-            <img src="/images/HCS.jpg"
-                 alt="Hartford Area Chamber of Commerce">
-        </a>
-        <a target="_blank"  class="sponsorLogo">
-            <img src="/images/MSOE.png" alt="MSOE university">
-        </a>
+            <span class="sponsorLogo">
+                <img src="/images/CMI.png"
+                     alt="Contact Metals Inc.">
+            </span>
+            <span class="sponsorLogo">
+                <img src="/images/image.png" alt="Piggly Wiggly">
+            </span>
+            <span class="sponsorLogo">
+                <img src="/images/HAF.png"
+                     alt="Hartford Area Foundation">
+            </span>
+            <span class="sponsorLogo">
+                <img src="/images/HCS.jpg"
+                     alt="Hartford Area Chamber of Commerce">
+            </span>
+            <span class="sponsorLogo">
+                <img src="/images/MSOE.png" alt="MSOE university">
+            </span>
         </div>
     </div>
     <div class="sponsorCategory sponsorToolboxTeam">
         <h2>Toolbox Team (<$500)</h2>
         <div class="sponsorLinks">
-            <a target="_blank" class="sponsorLogo">
-                <img src="KT.jpg" alt="Kwik Trip">
-            </a>
-            <a target="_blank" class="sponsorLogo">
-                <img src="" alt="Uptown Motors">
-            </a>
-            <a target="_blank" class="sponsorLogo">
-                <img src="" alt="Laverne Fawcett">
-            </a>
+            <span class="sponsorLogo">
+                Kwik Trip
+            </span>
+            <span class="sponsorLogo">
+                Uptown Motors
+            </span>
+            <span class="sponsorLogo">
+                Laverne Fawcett
+            </span>
         </div>
     </div>
 </div>
@@ -127,6 +124,7 @@ order: 3
     }
 
     .sponsorLogo {
+        color: #fff;
         padding: 1vmax;
         display: inline-block;
         transition: background .2s;
@@ -134,12 +132,12 @@ order: 3
         margin: 1vmax;
     }
 
-    .sponsorLogo:hover {
+    a.sponsorLogo:hover {
         background: var(--team-color);
     }
 
     /* sponsorLogo is a "default" style class for all logos */
-    .sponsorLogo img {
+    .sponsorLogo > img {
         vertical-align: middle;
         height: 5ch;
         max-width: initial;
